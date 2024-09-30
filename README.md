@@ -1,15 +1,11 @@
 # jenkins-test
+auto-start
 
 build test1
-
 <br>
-
 build test2
-
 <br>
-
 build test3
-11
 <br>
 build test4
 <br>
@@ -20,4 +16,6 @@ build test6
 build test7
 <br>
 build test8
+<br>
+build test9
 
