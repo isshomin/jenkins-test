@@ -12,6 +12,6 @@ public class ProcessController {
 	@GetMapping("/test")
 	public String reqRes() {
 		log.info("요청 수락 ~~~");
-		return "수정완료: linux 서버 자동배포 테스트";
+		return "수정완료: linux 서버 자동배포 테스트입니다 2024-10-01 18:17";
 	}
 }
